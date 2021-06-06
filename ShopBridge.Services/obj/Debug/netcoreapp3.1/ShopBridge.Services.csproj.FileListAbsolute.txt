@@ -1,0 +1,14 @@
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Services.deps.json
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Services.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Services.pdb
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Models.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Repository.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Models.pdb
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\bin\Debug\netcoreapp3.1\ShopBridge.Repository.pdb
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.csprojAssemblyReference.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.AssemblyInfoInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.AssemblyInfo.cs
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.csproj.CopyComplete
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Services\obj\Debug\netcoreapp3.1\ShopBridge.Services.pdb

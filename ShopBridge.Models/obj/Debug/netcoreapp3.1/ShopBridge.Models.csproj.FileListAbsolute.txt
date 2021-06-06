@@ -1,0 +1,8 @@
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\bin\Debug\netcoreapp3.1\ShopBridge.Models.deps.json
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\bin\Debug\netcoreapp3.1\ShopBridge.Models.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\bin\Debug\netcoreapp3.1\ShopBridge.Models.pdb
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\obj\Debug\netcoreapp3.1\ShopBridge.Models.AssemblyInfoInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\obj\Debug\netcoreapp3.1\ShopBridge.Models.AssemblyInfo.cs
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\obj\Debug\netcoreapp3.1\ShopBridge.Models.csproj.CoreCompileInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\obj\Debug\netcoreapp3.1\ShopBridge.Models.dll
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridge.Models\obj\Debug\netcoreapp3.1\ShopBridge.Models.pdb

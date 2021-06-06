@@ -1,0 +1,4 @@
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridgeApi\obj\Release\netcoreapp3.1\ShopBridgeApi.AssemblyInfoInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridgeApi\obj\Release\netcoreapp3.1\ShopBridgeApi.AssemblyInfo.cs
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridgeApi\obj\Release\netcoreapp3.1\ShopBridgeApi.csproj.CoreCompileInputs.cache
+D:\Workspace\Interview\ShopBridge\ShopBridgeApplication\ShopBridgeApplication\ShopBridgeApi\obj\Release\netcoreapp3.1\ShopBridgeApi.MvcApplicationPartsAssemblyInfo.cache
